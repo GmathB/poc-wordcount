@@ -1,0 +1,4 @@
+Hello All. Welcome to this testing web application built in python.
+We are going to find the count of a particular word 
+
+python is a lovely scripting/development language 
